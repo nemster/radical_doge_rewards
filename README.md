@@ -17,7 +17,7 @@ Looking at the transaction details you will see that a `locker_...` component ha
 
 ```
 CALL_FUNCTION
-    Address("")
+    Address("package_tdx_2_1p58tz89ptr9kf37crmu008na6n88plsnkhja93xtj0v90npd35m3lw")
     "RadicalDogeRewards"
     "new"
     Address("<OWNER_BADGE_ADDRESS>")
